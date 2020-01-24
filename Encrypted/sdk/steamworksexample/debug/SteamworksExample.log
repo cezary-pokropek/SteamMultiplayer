@@ -1,0 +1,6 @@
+﻿  RemotePlay.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+BaseMenu.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SteamworksExample.vcxproj -> G:\Git\UnrealGit\SteamMultiplayer\Encrypted\sdk\steamworksexample\.\Debug\SteamworksExample.exe
+          1 file(s) copied.
+          1 file(s) copied.
